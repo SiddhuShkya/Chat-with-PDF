@@ -14,3 +14,4 @@ Steps to run the project on your local machine:
 Note: If the processing takes too long you may try again with a different PDF file with a smaller size. You can try with the given PDF file DSA.pdf from the testPDFs folder.
 
 ## Screenshot of the User Interface
+![userinterface](https://github.com/SiddhuShkya/Chat-with-PDF/assets/104829964/87499c0e-691a-4fcc-bcd9-1d7219ed7b45)
