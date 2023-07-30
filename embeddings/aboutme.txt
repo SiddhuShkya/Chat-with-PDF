@@ -1,0 +1,1 @@
+This folder contains the embedded files of the submitted PDF files in pickle format for faster processing of the
