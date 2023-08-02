@@ -1,5 +1,4 @@
-python-dotenv
-PyPDF2
-streamlit
-langchain
-pickle
+langchain==0.0.249
+PyPDF2==3.0.1
+python-dotenv==1.0.0
+streamlit==1.25.0
